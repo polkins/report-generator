@@ -1,0 +1,17 @@
+{
+  "agent": {
+    "firmName": "Pets&Food",
+    "code": "1234567890",
+    "workPlan": "Sell pet food"
+  },
+  "payers": [
+    {
+      "name": "Pets",
+      "code": "0000011111"
+    },
+    {
+      "name": "Ivan JSC",
+      "code": "1111122222"
+    }
+  ]
+}
